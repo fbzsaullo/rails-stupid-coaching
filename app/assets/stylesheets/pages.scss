@@ -1,3 +1,14 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+$purple: #BF9ACA;
+
+body {
+  background: $purple;
+  margin: 0 auto;
+}
+
+.container {
+  text-align: center;
+}
